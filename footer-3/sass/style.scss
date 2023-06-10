@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+footer{
+
+    .nav-header{
+        display: flex;
+        margin-top: 20px;
+        display: flex;
+        height: 111px;
+        background-color: #fafafa;
+        justify-content: center;
+        font-family: 'montserrat';
+        .txt{
+            display: block;
+            margin-left: 20px;
+            margin-top: 10px;
+    
+            h6{
+                font-size: 14px;
+            }
+            p{
+                color: #737373;
+                font-size: 12px;
+                width: 153px;
+            }
+        }
+    }
+    .contact{
+        display: flex;
+        margin-top: 50px;
+    .first-nav{
+        margin-left: 150px;
+        list-style: none;
+        font-family: 'Monstserrat', sans-serif;
+        .first-nav-title{
+            font-weight: 700;
+            font-size: 24px;
+            padding-bottom: 20px;
+        }
+        .first-nav-item{
+            width: 201px;
+            color: #737373;
+            font-size: 14px;
+            padding-bottom: 20px;
+            line-height: 24px;
+            font-weight: 700;
+        }
+        .social{
+            display: flex;
+            .facebook{
+                margin-right: 15px;
+            }
+            .instagram{
+                margin-right: 15px;
+            }
+        }
+    }
+    .second-nav{
+        margin-left: 50px;
+        list-style: none;
+        font-family: 'Monstserrat', sans-serif;
+        .second-nav-title{
+            font-weight: 700;
+            font-size: 24px;
+            padding-bottom: 20px;
+        }
+        .second-nav-item{
+            width: 201px;
+            color: #737373;
+            font-size: 14px;
+            padding-bottom: 20px;
+            line-height: 24px;
+            font-weight: 700;
+        }
+    }
+    
+    .third-nav{
+        margin-left: 50px;
+        list-style: none;
+        font-family: 'Monstserrat', sans-serif;
+        .third-nav-title{
+            font-weight: 700;
+            font-size: 24px;
+            padding-bottom: 20px;
+        }
+        .third-nav-item{
+            width: 201px;
+            color: #737373;
+            font-size: 14px;
+            padding-bottom: 20px;
+            line-height: 24px;
+            font-weight: 700;
+        }
+    }
+    .fourth-nav{
+        margin-left: 50px;
+        list-style: none;
+        font-family: 'Monstserrat', sans-serif;
+        .fourth-nav-title{
+            font-weight: 700;
+            font-size: 24px;
+            padding-bottom: 20px;
+        }
+        .fourth-nav-item{
+            width: 201px;
+            color: #737373;
+            font-size: 14px;
+            padding-bottom: 20px;
+            line-height: 24px;
+            font-weight: 700;
+        }
+    }
+
+    .fifth-nav{
+        margin-left: 50px;
+        list-style: none;
+        font-family: 'Monstserrat', sans-serif;
+        .fifth-nav-title{
+            font-weight: 700;
+            font-size: 24px;
+            padding-bottom: 20px;
+        }
+        .fifth-nav-item{
+            width: 201px;
+            color: #737373;
+            font-size: 14px;
+            padding-bottom: 20px;
+            line-height: 24px;
+            span{
+                img{
+                   margin-right: 5px;
+                   
+                }
+            }
+        }
+    }
+
+    }
+    .nav-last{
+        margin-top: 20px;
+        display: flex;
+        height: 142px;
+        width: 100%;
+        background-color: #fafafa;
+        padding-top: 50px;
+        padding-left: 150px;
+    .left{
+        display: block;
+        font-family: 'Montserrat';
+        h3{
+            font-size: 24px;
+            line-height: 32px;
+        }
+        p{
+            font-size: 14px;
+            color: #737373;
+            font-weight: 200;
+        }
+    }
+        .right{
+            input{
+                width: 160px;
+                height: 52px;
+                margin-left: 35rem;
+                border-radius: 5px;
+                font-size: 14px;
+                color: #fff;
+                background-color: #23A6F0;
+                border: none;
+            }
+        }
+    }
+    
+}
